@@ -6,7 +6,7 @@ body {
 /*header style*/
 
 header {
-	background-image: url(../img/header.jpg);
+	background-image: url(grfx/header.jpg);
 	background-repeat: no-repeat;
 	padding: 10px;
 	display: block;
